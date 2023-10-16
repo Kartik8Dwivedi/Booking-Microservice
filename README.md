@@ -6,13 +6,13 @@
 ## Microservice repositories
  - ### AirHub-Airline-Management-System Microservice
       - For booking the flight tickets and message queues
-      - [https://github.com/Kartik8Dwivedi/Booking-Microservice](https://github.com/Kartik8Dwivedi/Ticketing-Microservice)
+      - https://github.com/Kartik8Dwivedi/AirHub-Airline-Management-System
  - ### Mailing and Third party Microservice
       - For setting up the cron jobs and message queues
-      - [https://github.com/Kartik8Dwivedi/Notification-Microservice](https://github.com/Kartik8Dwivedi/Thirt-Party-Microservice)
+      - https://github.com/Kartik8Dwivedi/Thirt-Party-Microservice
  - ### Authentication and Authorization microservice
       - For authentication logic
-      - [https://github.com/Kartik8Dwivedi/Auth-Microservice](https://github.com/Kartik8Dwivedi/Authentication-and-Authorization-microservice)
+      - https://github.com/Kartik8Dwivedi/Authentication-and-Authorization-microservice
  - ### Api Endpoint Gateway microservice
       - For api endpoint switch to particular microservice; the role of this microservice in majorly for deployment
       - https://github.com/Kartik8Dwivedi/API-Endpoint-Gateway
